@@ -15,10 +15,14 @@ Our project aims to address climate change challenges by leveraging earth observ
 We welcome contributions! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the Apache License 2.0 License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 We would like to thank the UAE Space Agency and the organizers of COP28 for hosting the Hack4Climate event and providing us with this opportunity to contribute to climate change solutions.
+
+## Trademarks and Endorsements
+
+This project may mention trademarks or other intellectual property of third parties, including COP28 and the UAE Space Agency. Such references are for informational purposes only and do not imply any endorsement, sponsorship, or affiliation by the owners of such intellectual property. 
 
 ## Contact
 For any queries regarding the project, please reach out to us at bassim.ahdab@gmail.com.
